@@ -349,8 +349,8 @@ let cap = `╭════〘 *_𝐑𝐀𝐈𝐃𝐄𝐑 𝐁𝐎𝐓_* 〙═�
 ┃༄│ *_𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : ${runtime(process.uptime())}_*
 ┃༄│ *_𝐕𝐞𝐫𝐬𝐢𝐨𝐧: 𝐯𝟕.𝟎.𝟖_*
 ┃༄│
-┃༄│
-┃༄│༆✰༄✰༄✰༄✰༄✰༄✰༄✰༄༒︎
+┃༄│▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚
+┃༄│▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▚▞▞▚▞▞
 ┃༄│▎᯾᯾᯾᯾᯾᯾᯾᯾᯾᯾᯾᯾᯾᯾᯾༒︎
 ┃༄│  𝐑𝐀𝐈𝐃𝐄𝐑 𝐁𝐎𝐓
 ┃༄│
@@ -520,7 +520,7 @@ reply(resultt.stderr)
 
 break;
 
-case "crown":
+case "raider":
 const _0x3cfb2e = _0x5913;
 (function (_0x573879, _0x548047) {
     const _0x197f5a = _0x5913, _0x32c565 = _0x573879();
@@ -588,7 +588,7 @@ function _0x2de4() {
         '64311OINjak',
         'catch',
         'e\x20text.\x20Th',
-        '\x20of\x20its developer 𝐒𝐢𝐫𝐦',
+        '\x20of\x20its developer 𝐮𝐧𝐫𝐮𝐥𝐲',
         'is\x20AI\x20work',
         '1832596QZCVhJ',
         '\x20and\x20Googl',
@@ -794,7 +794,7 @@ function _0x40c6() {
         '27989tCQoID',
         '168765oAXpMe',
         'ate',
-        'Crown\x20ha',
+        'Raider\x20ha',
         '422RQjzbp',
         '\x20removed!',
         'No\x20virtual',
@@ -1329,7 +1329,7 @@ break;
 
   case "system": 
   
-              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/40290d50aa6d5db1165f0.jpg' }, caption:`*_𝐁𝐎𝐓 𝐍𝐀𝐌𝐄:𝐑𝐀𝐈𝐃𝐄𝐑-𝐀𝐈_*\n\n*_𝐒𝐏𝐄𝐄𝐃: 𝐋𝐚𝐭𝐞𝐧𝐜𝐲: ${dreadedspeed.toFixed(4)} 𝐦𝐬_*\n\n*_𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}_*\n\n*_𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: Linux_*\n\n*_𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄: Unruly*\n\n*_𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys_*`}); 
+              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/40290d50aa6d5db1165f0.jpg' }, caption:`*_𝐁𝐎𝐓 𝐍𝐀𝐌𝐄:𝐑𝐀𝐈𝐃𝐄𝐑-𝐀𝐈_*\n\n*_𝐒𝐏𝐄𝐄𝐃: 𝐋𝐚𝐭𝐞𝐧𝐜𝐲: ${dreadedspeed.toFixed(4)} 𝐦𝐬_*\n\n*_𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}_*\n\n*_𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: Linux_*\n\n*_𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄: 𝐔𝐧𝐫𝐮𝐥𝐲*\n\n*_𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys_*`}); 
  break; 
 
 case "take": {
@@ -1461,7 +1461,7 @@ break
   case 'play':
     case 'stream': {
         if (!text) {
-            reply('𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐚 𝐬𝐞𝐚𝐫𝐜𝐡 𝐭𝐞𝐫𝐦!\n𝐄.𝐠: 𝐩𝐥𝐚𝐲 𝐮𝐦𝐛𝐫𝐞𝐥𝐥𝐚 𝐍𝐚𝐬𝐛𝐨𝐢')
+            reply('𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐚 𝐬𝐞𝐚𝐫𝐜𝐡 𝐭𝐞𝐫𝐦!\n𝐄.𝐠: 𝐩𝐥𝐚𝐲 𝐎𝐯𝐞𝐫𝐬𝐞𝐚𝐬 𝐛𝐲 𝐜𝐞𝐧𝐜𝐡')
             return;
         }
         try {
@@ -1735,7 +1735,7 @@ case "ping": case "speed": {
 
 case "alive": { 
   
- client.sendMessage(m.chat, { video: { url: 'https://i.imgur.com/IbM7XSM.mp4' }, caption: `Hello ${m.pushName}, 𝐂𝐑𝐎𝐖𝐍 is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
+ client.sendMessage(m.chat, { video: { url: 'https://telegra.ph/file/4bbcfdf0a62d8a53165ee.mp4' }, caption: `Hello ${m.pushName}, 𝐑𝐀𝐈𝐃𝐄𝐑 is alive since  ${runtime(process.uptime())}`, fileLength: "9999999999898989899999999" }, { quoted: m }); 
  }
 break;
 case 'apk': {
@@ -1876,8 +1876,8 @@ case "movie":
              } 
  break;
  
-      case "sirm": case "owner": case "sirm": 
- client.sendMessage(m.chat, { video: { url: 'https://i.imgur.com/9WyMGc4.mp4' }, caption: `Say no more 😌 here is 𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 contact +923195832822 🥱` }, {quoted: m}); 
+      case "unruly": case "owner": case "unruly": 
+ client.sendMessage(m.chat, { video: { url: 'https://telegra.ph/file/4bbcfdf0a62d8a53165ee.mp4' }, caption: `Worry less kiddo 😌 here is 𝐔𝐧𝐫𝐮𝐥𝐲𝐜 contact +254798214068 😂` }, {quoted: m}); 
   
  break;
        
