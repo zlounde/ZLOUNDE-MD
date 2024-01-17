@@ -1,19 +1,19 @@
-# CROWN-MD
+# RAIDER-MD
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=LONG LIVE+👑CROWN-MD👑;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+SIRM;PUBLIC+RELESED; ...;TEAM CROWN-𝙼𝙳." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HAIL KING+😈RAIDER-MD😈;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+UNRULY;PUBLIC+RELESED; ...;TEAM RAIDER-𝙼𝙳." alt="Typing SVG" /></a>
   </p>
   
 <p align="center">
-<img src="https://i.imgur.com/oE6btwC.jpeg" width="300" height="300"/>
+<img src="https://telegra.ph/file/e3518f079801bc1c0c8a6.jpg" width="300" height="300"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=CROWN-BOT+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=RAIDER-BOT+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-UNRULYC.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="'https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 +uko+na+update+yoyote+ya+CROWN+Bot+Mkuu+🥲'"><img title="Whatsapp" src="'https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 +uko+na+update+ya+Crown+Bot+Mkuu+🥲'?color=green&style=flat-square"></a>
+<a href="'https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 +uko+na+update+yoyote+ya+RAIDER+Bot+Mkuu+🥲'"><img title="Whatsapp" src="'https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 +uko+na+update+ya+Raider+Bot+Mkuu+🥲'?color=green&style=flat-square"></a>
   
 <a href="https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
 <a href="https://github.com/kimsirm/CROWN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/fork/kimsirm/COWN-MD?color=yellow&style=flat-square"></a>
@@ -24,7 +24,7 @@
 </p>
 
 
-***Made on Earth by 𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 🦄***
+***SUPER BOT MADE BY 𝐔𝐍𝐑𝐔𝐋𝐘 😈🥷***
 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
@@ -40,7 +40,7 @@ Linking/Pairing:
 
 
 ## ` Pair On reptil`
-<h2 align="left">  <a href="https://replit.com/@njaisirm1/Crown-Pairing-v6"><img src="https://repl.it/badge/github/quiec/whatsasena" />
+<h2 align="left">  <a href="https://replit.com/@sayless5714/PAIRING-UNRULY-BOT?v=1"><img src="https://repl.it/badge/github/quiec/whatsasena" />
 </a>
 </h2>
 
@@ -71,7 +71,7 @@ Alternatively, pair locally using the repo [Here](https://github.com/Fortunatusm
 
 
 
-Incase of any issues, contact me  [here](https://wa.me/+923195832822) via WhatsApp or [here](sirmnjai@gmail.com) via Email.
+Incase of any issues, contact me  [here](https://wa.me/+254798214068) via WhatsApp or [here](Dannyandy452@gmail.com) via Email.
 
 Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
 
@@ -80,5 +80,5 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 [MIT License](https://https://github.com/kimsirm/CROWN-MD/blob/main/LICENSE)
 
-Copyright (c) 2023 CROWN-MD
+Copyright (c) 2023 RAIDER-MD
 
