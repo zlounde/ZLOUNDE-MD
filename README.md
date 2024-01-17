@@ -15,12 +15,12 @@
 <p align="center">
 <a href="'https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 +uko+na+update+yoyote+ya+RAIDER+Bot+Mkuu+🥲'"><img title="Whatsapp" src="'https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 +uko+na+update+ya+Raider+Bot+Mkuu+🥲'?color=green&style=flat-square"></a>
   
-<a href="https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
-<a href="https://github.com/kimsirm/CROWN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/fork/kimsirm/COWN-MD?color=yellow&style=flat-square"></a>
-<a href="https://github.com/owlai01/CROWN-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kimsirm/CROWN-MD?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/kimsirm/CROWN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
+<a href="https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏"><img title="Twitter" src="https://x.com/UNRULYC?s=09?color=black&style=flat-square"></a>
+<a href="https://github.com/Trenchguy/RAIDER-MD/network/members"><img title="Forks" src="https://img.shields.io/github/fork/unruly/RAIDER-MD?color=yellow&style=flat-square"></a>
+<a href="https://github.com/owlai01/RAIDER-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/unruly/RAIDER-MD?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/Trenchguy/RAIDER-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/owlai01/Owl-Ai/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/owlai01/CROWN-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/owlai01/RAIDER-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
 
 
@@ -54,7 +54,7 @@ Alternatively, pair locally using the repo [Here](https://github.com/Fortunatusm
     
 <h2 align="center">   
 
-- Fork this repo by tapping  [here](https://github.com/kimsirm/CROWN-MD/fork)
+- Fork this repo by tapping  [here](https://github.com/Trenchguy/RAIDER-MD/fork)
 
 
 - Upload the creds.json that you received to the dreaded1 folder.
@@ -78,7 +78,7 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 ## License
 
-[MIT License](https://https://github.com/kimsirm/CROWN-MD/blob/main/LICENSE)
+[MIT License](https://github.com/Trenchguy/RAIDER-MD/blob/main/LICENSE)
 
-Copyright (c) 2023 RAIDER-MD
+Copyright (c) 2024 RAIDER-MD
 
