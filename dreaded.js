@@ -1104,7 +1104,7 @@ await m.reply('Successfully removed!');
 
  case 'sc': case 'script': case 'repo':
 
- client.sendMessage(m.chat, { image: { url: `https://i.imgur.com/1rqCELH.jpeg` }, caption: 
+ client.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/e3518f079801bc1c0c8a6.jpg` }, caption: 
 `👋🏻 Hi *${pushname}*,You can deploy RAIDER-BOT using the GitHub link below🦄\n\nFork and give us a star✨.\n\n https://github.com/Trenchguy/RAIDER-MD\n\nLink with your whatsapp using pairing link below\nhttps://replit.com/@sayless5714/PAIRING-UNRULY-BOT?v=1\n\nAlways count on UNRULY😈..\n\nMade on Earth by 𝑼𝑵𝑹𝑼𝑳𝒀!!` });
 
    break;
@@ -1328,7 +1328,7 @@ break;
 
   case "system": 
   
-              client.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/eImS3eF.jpeg' }, caption:`*_𝐁𝐎𝐓 𝐍𝐀𝐌𝐄:𝐑𝐀𝐈𝐃𝐄𝐑-𝐀𝐈_*\n\n*_𝐒𝐏𝐄𝐄𝐃: 𝐋𝐚𝐭𝐞𝐧𝐜𝐲: ${dreadedspeed.toFixed(4)} 𝐦𝐬_*\n\n*_𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}_*\n\n*_𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: Linux_*\n\n*_𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄: Unruly*\n\n*_𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys_*`}); 
+              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/40290d50aa6d5db1165f0.jpg' }, caption:`*_𝐁𝐎𝐓 𝐍𝐀𝐌𝐄:𝐑𝐀𝐈𝐃𝐄𝐑-𝐀𝐈_*\n\n*_𝐒𝐏𝐄𝐄𝐃: 𝐋𝐚𝐭𝐞𝐧𝐜𝐲: ${dreadedspeed.toFixed(4)} 𝐦𝐬_*\n\n*_𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}_*\n\n*_𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: Linux_*\n\n*_𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄: Unruly*\n\n*_𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys_*`}); 
  break; 
 
 case "take": {
@@ -1707,7 +1707,7 @@ break;
                 client.sendMessage(
                     from, {
                         video: fs.readFileSync(`./${randomName}`),
-                        caption: `𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐂𝐫𝐨𝐰𝐧-𝐀𝐈`,
+                        caption: `𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐑𝐚𝐢𝐝𝐞𝐫-𝐀𝐈`,
                     }, {
                         quoted: m
                     }
@@ -1825,7 +1825,7 @@ client.sendMessage(from, buttonMessage, { quoted: m })
    fs.unlinkSync(media); 
    if (err) throw err 
    let buffer = fs.readFileSync(mokaya); 
-   client.sendMessage(m.chat, { image: buffer, caption: `*_𝐂𝐫𝐨𝐰𝐧 𝐂𝐨𝐧𝐯𝐞𝐫𝐭𝐞𝐫 🦄_*`}, { quoted: m }) 
+   client.sendMessage(m.chat, { image: buffer, caption: `*_𝐑𝐚𝐢𝐝𝐞𝐫 𝐂𝐨𝐧𝐯𝐞𝐫𝐭𝐞𝐫 🦄_*`}, { quoted: m }) 
    fs.unlinkSync(mokaya); 
     }); 
     } 
