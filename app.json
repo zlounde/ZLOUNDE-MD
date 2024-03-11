@@ -1,6 +1,6 @@
 {
-  "name": "RAIDER-MD",
-  "description": "𝑼𝑵𝑹𝑼𝑳𝒀 thee maestro",
+  "name": "𝐑𝐀𝐈𝐃𝐄𝐑-𝐌𝐃",
+  "description": "𝐔𝐍𝐑𝐔𝐋𝐘 𝐓𝐇𝐄𝐄 𝐌𝐀𝐄𝐒𝐓𝐑𝐎",
   "keywords": [
     "bot",
     "whatsapp",
@@ -16,7 +16,7 @@
   ],
   "website": "https://github.com/Trenchguy/RAIDER-MD#readme",
   "repository": "https://github.com/Trenchguy/RAIDER-MD.git",
-  "logo": "https://telegra.ph/file/40290d50aa6d5db1165f0.jpg",
+  "logo": "https://telegra.ph/file/3f6327cf17331bacad639.jpg",
   "success_url": "/",
   "env": {
     "PREFIX": {
