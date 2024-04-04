@@ -4,7 +4,7 @@
   </p>
   
 <p align="center">
-<img src="https://telegra.ph/file/388c8678724fd1de7e5db.jpg" width="300" height="300"/>
+<img src="https://telegra.ph/file/74209800b98a19c06eb55.jpg" width="300" height="300"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=ZLOUNDER-BOT+WHATSAPP+BOT" alt="">
