@@ -1,19 +1,19 @@
-# RAIDER-MD
+# ZLOUNDER-MD
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HAIL KING+😈RAIDER-MD😈;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+UNRULY;PUBLIC+RELESED; ...;TEAM RAIDER-𝙼𝙳." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HAIL KING+😈ZLOUNDER-MD😈;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ZEKKY;PUBLIC+RELESED; ...;TEAM ZLOUNER-𝙼𝙳." alt="Typing SVG" /></a>
   </p>
   
 <p align="center">
 <img src="https://telegra.ph/file/388c8678724fd1de7e5db.jpg" width="300" height="300"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=RAIDER-BOT+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=ZLOUNDER-BOT+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-UNRULYC.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="'https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 +uko+na+update+yoyote+ya+RAIDER+Bot+Mkuu+🥲'"><img title="Whatsapp" src="'https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 +uko+na+update+ya+Raider+Bot+Mkuu+🥲'?color=green&style=flat-square"></a>
+<a href="'https://wa.me/254115521408ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 +uko+na+update+yoyote+ya+RAIDER+Bot+Mkuu+🥲'"><img title="Whatsapp" src="'https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 +uko+na+update+ya+zloundr+Bot+Mkuu+🥲'?color=green&style=flat-square"></a>
   
 <a href="https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏"><img title="Twitter" src="https://x.com/UNRULYC?s=09?color=black&style=flat-square"></a>
 <a href="https://github.com/Trenchguy/RAIDER-MD/network/members"><img title="Forks" src="https://img.shields.io/github/fork/unruly/RAIDER-MD?color=yellow&style=flat-square"></a>
@@ -24,7 +24,7 @@
 </p>
 
 
-***SUPER BOT MADE BY 𝐔𝐍𝐑𝐔𝐋𝐘 😈🥷***
+***SUPER BOT MADE BY ZEKKY 😈🥷***
 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
