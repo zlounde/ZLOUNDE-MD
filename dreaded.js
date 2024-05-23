@@ -470,7 +470,7 @@ if (menu === 'VIDEO') {
 client.sendMessage(from, { text: cap}, {quoted: m})
 
 } else if (menu === 'IMAGE') {
-client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/9d03288056a770b060ba6.jpg' }, caption: cap, fileLength: "9999999999"}, { quoted: m })
+client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74209800b98a19c06eb55.jpg' }, caption: cap, fileLength: "9999999999"}, { quoted: m })
 } else if (menu === 'LINK') {
 client.sendMessage(m.chat, {
                         text: cap,
@@ -480,7 +480,7 @@ client.sendMessage(m.chat, {
                                 title: `ZLOUNDER-𝐀𝐈`,
                                 body: `${runtime(process.uptime())}`,
                                 thumbnail: fs.readFileSync('./crown.jpg'),
-                                sourceUrl: 'https://wa.me/254798214068?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏+Nihostie+Bot+Mkuu+🥲',
+                                sourceUrl: 'https://wa.me/254115521408?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏+Nihostie+Bot+Mkuu+🥲',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
