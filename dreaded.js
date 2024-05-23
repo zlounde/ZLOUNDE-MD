@@ -191,7 +191,7 @@ function _0x11cc() {
         '184473FwtnYZ',
         '18szWhmE',
         'startsWith',
-        'RAIDER-AI\x20an',
+        'ZLOUNDER-AI\x20an',
         '376590puyzhN',
         'key'
     ];
@@ -322,7 +322,7 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
   
 
     if (cmd && !m.isGroup) {
-      console.log(chalk.black(chalk.bgWhite("[ RAIDER-AI]")), color(argsLog, "turquoise"), chalk.magenta("From"), chalk.green(pushname), chalk.yellow(`[ ${m.sender.replace("@s.whatsapp.net", "")} ]`));
+      console.log(chalk.black(chalk.bgWhite("[ ZLOUNDER-AI]")), color(argsLog, "turquoise"), chalk.magenta("From"), chalk.green(pushname), chalk.yellow(`[ ${m.sender.replace("@s.whatsapp.net", "")} ]`));
     } else if (cmd && m.isGroup) {
       console.log(
         chalk.black(chalk.bgWhite("[ LOGS ]")),
@@ -385,7 +385,7 @@ let cap = `╭════〘 *_ZLOUNDER 𝐁𝐎𝐓_* 〙═⊷❍
 ▯╭─────────────···▸
 ┴☙│
 ┃☙│ *_𝐀𝐢-𝐢𝐦𝐠_*
-┃☙│ *_𝐑𝐚𝐢𝐝𝐞𝐫_*
+┃☙│ *_ZLOUNDER�_*
 ┃☙│ *_𝐆_*
 ┃☙│ *_𝐆𝐩𝐭_*                                                                                                                                                                                                                                                         
 ┬☙│
@@ -521,7 +521,7 @@ reply(resultt.stderr)
 
 break;
 
-case "raider":
+case "zlounder":
 const _0x3cfb2e = _0x5913;
 (function (_0x573879, _0x548047) {
     const _0x197f5a = _0x5913, _0x32c565 = _0x573879();
@@ -795,7 +795,7 @@ function _0x40c6() {
         '27989tCQoID',
         '168765oAXpMe',
         'ate',
-        'Raider\x20ha',
+        'ZLOUNDER\x20ha',
         '422RQjzbp',
         '\x20removed!',
         'No\x20virtual',
@@ -1330,7 +1330,7 @@ break;
 
   case "system": 
   
-              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/40290d50aa6d5db1165f0.jpg' }, caption:`*_𝐁𝐎𝐓 𝐍𝐀𝐌𝐄:𝐑𝐀𝐈𝐃𝐄𝐑-𝐀𝐈_*\n\n*_𝐒𝐏𝐄𝐄𝐃: 𝐋𝐚𝐭𝐞𝐧𝐜𝐲: ${dreadedspeed.toFixed(4)} 𝐦𝐬_*\n\n*_𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}_*\n\n*_𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: Linux_*\n\n*_𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄: 𝐔𝐧𝐫𝐮𝐥𝐲*\n\n*_𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys_*`}); 
+              client.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/40290d50aa6d5db1165f0.jpg' }, caption:`*_𝐁𝐎𝐓 𝐍𝐀𝐌𝐄:ZLOUNDER�-𝐀𝐈_*\n\n*_𝐒𝐏𝐄𝐄𝐃: 𝐋𝐚𝐭𝐞𝐧𝐜𝐲: ${dreadedspeed.toFixed(4)} 𝐦𝐬_*\n\n*_𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}_*\n\n*_𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: Linux_*\n\n*_𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄: 𝐔𝐧𝐫𝐮𝐥𝐲*\n\n*_𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys_*`}); 
  break; 
 
 case "take": {
@@ -1709,7 +1709,7 @@ break;
                 client.sendMessage(
                     from, {
                         video: fs.readFileSync(`./${randomName}`),
-                        caption: `𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐑𝐚𝐢𝐝𝐞𝐫-𝐀𝐈`,
+                        caption: `𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 ZLOUNDER�-𝐀𝐈`,
                     }, {
                         quoted: m
                     }
@@ -2044,7 +2044,7 @@ async function getConversation() {
 
 // Handler for the "gpt" or "g" case
 async function handleGPTMessage(text, m) {
-  if (!text) return m.reply("Hello am 𝐑𝐀𝐈𝐃𝐄𝐑 an Ai developed by 𝐔𝐧𝐫𝐮𝐥𝐲, how can I help you today?");
+  if (!text) return m.reply("Hello am ZLOUNDER� an Ai developed by 𝐔𝐧𝐫𝐮𝐥𝐲, how can I help you today?");
 
   const configuration = new Configuration({
     apiKey: setting,
